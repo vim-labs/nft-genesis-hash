@@ -1,0 +1,15 @@
+{
+  "name": "nft_hash",
+  "version": "1.0.0",
+  "description": "Generate pseudorandom client-side ERC-721 token genesis hashes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vim-labs",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "web3": "latest"
+  }
+}
